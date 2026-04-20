@@ -186,7 +186,3 @@ If you find this work useful, please consider citing:
 This work builds upon several excellent open-source projects, including [Open-Sora](https://github.com/hpcaitech/Open-Sora), [VMC](https://github.com/HyeonHo99/Video-Motion-Customization), [ProPainter](https://github.com/sczhou/ProPainter), [CogVLM2](https://github.com/THUDM/CogVLM2), and [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL). We thank all authors for their contributions to the community.
 
 ---
-
-## Contact
-
-For any questions or collaborations, please feel free to reach out to the corresponding author **Chao Gou** (Sun Yat-sen University) or open an issue in this repository.
