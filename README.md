@@ -30,24 +30,6 @@ To address these challenges, we develop a comprehensive **Advertising Creative K
 
 ---
 
-## Method
-
-<p align="center">
-  <img src="figures/KD-CVG.png" alt="KD-CVG Framework" width="95%">
-</p>
-
-<p align="center"><i>Overview of the two core modules in the KD-CVG framework: Semantic-Aware Retrieval (SAR) and Multimodal Knowledge Reference (MKR).</i></p>
-
----
-
-## Results
-
-<p align="center">
-  <img src="figures/comself.png" alt="Qualitative comparison" width="95%">
-</p>
-
-<p align="center"><i>Qualitative comparison with state-of-the-art video generation models.</i></p>
-
 ### Quantitative Comparison
 
 | Method              | Textual Alignment | Temporal Consistency | Dynamic Degree | Motion Smoothness | Min-Max Score |
