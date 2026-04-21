@@ -56,6 +56,7 @@ We publicly release the Advertising Creative Knowledge Base (ACKB), containing a
 
 - **Download link:** <https://3.cn/1186-864O>
 - **Access password:** `qj2w7y`
+- data format: `path`: video_path, video_name is `video_md5_code.mp4`, `caption`: description of the corresponding video.
 
 > Please use the dataset for academic / research purposes only and cite our paper if you use ACKB in your work.
 
